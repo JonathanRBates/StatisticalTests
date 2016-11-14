@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 11 13:59:31 2015
-
-@author: vhaconbatesj
-"""
 
 # cf. R. G. Newcombe
 # [1] Two-sided confidence intervals for the single proportion, 1998
